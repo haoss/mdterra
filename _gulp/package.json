@@ -17,8 +17,8 @@
     "favicon-update": "gulp favicon-3-check-for-update"
   },
   "devDependencies": {
-    "bootstrap": "^5.0.2",
-    "browser-sync": "^2.27.4",
+    "bootstrap": "^5.1.1",
+    "browser-sync": "^2.27.5",
     "emitty": "^1.4.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
@@ -36,7 +36,7 @@
     "gulp-wait2": "0.0.5",
     "normalize-scss": "^7.0.1",
     "rimraf": "^3.0.2",
-    "sass": "^1.35.2"
+    "sass": "^1.41.0"
   },
   "browserslist": [
     "last 2 version"
